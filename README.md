@@ -22,4 +22,4 @@
 
 - **LinkedIn**: [PedroFerraz87](https://www.linkedin.com/in/pedro-valen%C3%A7a-ferraz/)
 - **GitHub**: [PedroFerraz87](https://github.com/PedroFerraz87)
-- **E-mail**: [pvf@cesar.school](pvf@cesar.school)
+- **E-mail**: pvf@cesar.school
