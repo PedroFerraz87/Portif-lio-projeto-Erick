@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    padding: 8px;
     line-height: 1.6;
 }
 
@@ -14,7 +14,7 @@ header {
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 nav ul li {
@@ -29,13 +29,13 @@ nav ul li a {
 section {
     margin: 2rem auto;
     width: 80%;
-    text-align: center;
+    text-align: left;
 }
 
 footer {
     background: #333;
     color: #fff;
-    text-align: center;
+    text-align: left;
     padding: 1rem 0;
     margin-top: 2rem;
 }
